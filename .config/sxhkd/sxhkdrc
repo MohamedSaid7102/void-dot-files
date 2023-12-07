@@ -1,0 +1,42 @@
+alt + shift + r
+  pkill -USR1 -x sxhkd
+
+super + Return
+  st
+
+super + d
+  dmenu_run
+
+super + w
+  brave-browser-nightly
+
+super + f
+  st -e tmux new-session -d -s mysession 'nnn -Rr' && st -e tmux attach -t mysession
+
+super + alt + {equal, minus, BackSpace}
+  $HOME/script/setVolume.sh {up, down, toggle}
+
+super + Escape
+    sh /home/shelf/script/exit.sh
+
+super + e
+    sh /home/shelf/script/emoji.sh
+
+super + m
+    bash /home/shelf/script/flashdrive-mount.sh
+
+super + u
+    /home/shelf/script/flashdrive-unmount.sh
+
+super + {0-9} 
+    /home/shelf/script/change_wallpaper.sh {0-9}
+
+super + s
+    /home/shelf/script/screenshot.sh
+
+super + shift + s
+    maim -s | xclip -selection clipboard -t image/png
+
+ctrl + super + s
+    $HOME/script/screencast.sh
+

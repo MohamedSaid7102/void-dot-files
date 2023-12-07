@@ -1,0 +1,28 @@
+2023-10-20 15:57:31.478 [info] Active editor: file:///mnt/hdd/iSchool/web-dev-course/project0/index.html
+2023-10-20 15:57:59.164 [info] /home/shelf/.config/Code/User/settings.json closed
+2023-10-20 15:57:59.172 [info] Configuration changed
+2023-10-20 15:57:59.845 [info] Active editor: file:///mnt/hdd/iSchool/web-dev-course/project0/index.html
+2023-10-20 15:58:24.373 [info] Active editor: file:///mnt/hdd/iSchool/web-dev-course/project0/index.html
+2023-10-20 15:58:25.595 [info] Active editor: file:///mnt/hdd/iSchool/web-dev-course/project0/index.html
+2023-10-20 17:35:35.864 [info] /home/shelf/.config/Code/User/settings.json closed
+2023-10-20 17:35:35.895 [info] Configuration changed
+2023-10-20 17:36:06.252 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:36:25.936 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:36:41.288 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:37:46.912 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:37:54.071 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:38:09.322 [info] Active editor: vscode-userdata:/home/shelf/.config/Code/User/settings.json
+2023-10-20 17:39:05.195 [info] Executing :w
+2023-10-20 17:39:05.618 [info] Configuration changed
+2023-10-20 17:39:05.640 [error] Invalid neovimPath. Command failed: /usr/bin/vi --version
+/usr/bin/vi: invalid option -- '-'
+usage: ex [-eFRrSsv] [-c command] [-t tag] [-w size] [file ...]
+usage: vi [-eFlRrSv] [-c command] [-t tag] [-w size] [file ...]
+.
+2023-10-20 17:39:06.328 [info] /settings/user closed
+2023-10-20 17:39:06.472 [info] /settings/resourceLanguage closed
+2023-10-20 17:39:06.475 [info] /ignoredSettings closed
+2023-10-20 17:39:06.528 [info] /launch closed
+2023-10-20 17:39:06.530 [info] /token-styling closed
+2023-10-20 17:39:06.530 [info] /textmate-colors closed
+2023-10-20 17:39:06.534 [info] /workbench-colors closed

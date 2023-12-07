@@ -1,0 +1,18 @@
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+background-color:red;
+border: 1rem solid blue
+}
+
+.p-4 {
+  border: hidden
+}
+
+.p-4:hover {
+  border: 1rem solid blue;
+}

@@ -1,0 +1,37 @@
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  width: 5ch;
+  word-break: break-all;
+}
+
+
+.p-4 {
+  border-width: 1mm;
+}
+/* .p-4 {
+  border: 1rem solid blue;
+}
+
+.p-4:hover {
+  border-style: solid
+} */
+
+.section video {
+  width: 100%;
+}
+
+body {
+  padding: 0;
+margin: 0;
+}
+.chat {
+  background-image: url('https://media.istockphoto.com/id/1192705564/photo/ancient-ruins-of-karnak-temple-with-colorful-sky-egypt.jpg?s=2048x2048&w=is&k=20&c=WNQEUb-v9THIVlvMLEWP6LxcVIDfDkLmipx8RZ5uGDA=');
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}

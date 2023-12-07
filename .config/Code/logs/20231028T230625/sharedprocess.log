@@ -1,0 +1,43 @@
+2023-10-28 23:06:31.756 [info] Getting Manifest... vscodevim.vim
+2023-10-28 23:06:31.957 [info] Installing extension: vscodevim.vim
+2023-10-28 23:06:34.601 [info] Extension signature is verified: vscodevim.vim
+2023-10-28 23:06:34.654 [info] Extracted extension to file:///home/shelf/.vscode/extensions/vscodevim.vim-1.26.2: vscodevim.vim
+2023-10-28 23:06:34.661 [info] Renamed to /home/shelf/.vscode/extensions/vscodevim.vim-1.26.2
+2023-10-28 23:06:34.663 [info] Extracting extension completed. vscodevim.vim
+2023-10-28 23:06:34.674 [info] Extension installed successfully: vscodevim.vim
+2023-10-28 23:06:34.680 [info] Marked extension as uninstalled vscodevim.vim-1.26.1
+2023-10-28 23:06:34.750 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-28 23:07:32.532 [info] Getting Manifest... ecmel.vscode-html-css
+2023-10-28 23:07:32.538 [info] Installing extension: ecmel.vscode-html-css
+2023-10-28 23:07:34.126 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-10-28 23:07:34.140 [info] Extracted extension to file:///home/shelf/.vscode/extensions/ecmel.vscode-html-css-1.13.1: ecmel.vscode-html-css
+2023-10-28 23:07:34.155 [info] Renamed to /home/shelf/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-10-28 23:07:34.156 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-10-28 23:07:34.167 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-10-28 23:07:34.237 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-28 23:07:51.068 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-10-28 23:07:51.091 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-10-28 23:07:53.270 [info] Extension signature is verified: bradlc.vscode-tailwindcss
+2023-10-28 23:07:53.326 [info] Extracted extension to file:///home/shelf/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.1: bradlc.vscode-tailwindcss
+2023-10-28 23:07:53.340 [info] Renamed to /home/shelf/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.1
+2023-10-28 23:07:53.342 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-10-28 23:07:53.352 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-10-28 23:07:53.422 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/shelf/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/home/shelf/src/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

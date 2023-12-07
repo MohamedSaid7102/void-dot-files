@@ -1,0 +1,8 @@
+2023-10-20 15:54:43.426 [info] update#setState idle
+2023-10-20 15:55:13.411 [info] update#setState checking for updates
+2023-10-20 15:55:13.517 [info] update#setState idle
+2023-10-20 15:55:40.878 [error] Blocked vscode-webview request vscode-webview://1esac4h58j22btkc43a9unqb3q1nhbpdb6c9iqe5bgnaavst63l7/index.html?id=0096deab-803e-47cc-b017-e80297d45d60&origin=0096deab-803e-47cc-b017-e80297d45d60&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&disableServiceWorker=true
+2023-10-20 15:56:10.038 [error] Blocked vscode-webview request vscode-webview://1hr42tn4ipmtmdsh1bpef4rupvpepfi1oqa9j77nhdsqq0tm7hi1/index.html?id=445d6a23-6082-4812-8d5d-a27ec5d41929&origin=445d6a23-6082-4812-8d5d-a27ec5d41929&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&disableServiceWorker=true
+2023-10-20 15:56:10.068 [error] CodeWindow: failed to load (reason: ERR_BLOCKED_BY_CLIENT, code: -20)
+2023-10-20 15:56:58.952 [info] Extension host with pid 8538 exited with code: 0, signal: unknown.
+2023-10-20 17:39:11.693 [info] Extension host with pid 9835 exited with code: 0, signal: unknown.

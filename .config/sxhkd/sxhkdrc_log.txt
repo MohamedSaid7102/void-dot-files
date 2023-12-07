@@ -1,0 +1,649 @@
+Mount point /mnt/flashdrive does not exist
+ies: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 58409 [89%] [on]
+  Front Right: Playback 58409 [89%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 64963 [99%] [on]
+  Front Right: Playback 64963 [99%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 58213 [89%] [on]
+  Front Right: Playback 58213 [89%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 64767 [99%] [on]
+  Front Right: Playback 64767 [99%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Call to Suspend failed: There's already a shutdown or sleep operation in progress
+Invalid choice. Please try again.
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [off]
+  Front Right: Playback 65536 [100%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+ght: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 65536 [100%] [on]
+  Front Right: Playback 65536 [100%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 58982 [90%] [on]
+  Front Right: Playback 58982 [90%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52428 [80%] [on]
+  Front Right: Playback 52428 [80%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45874 [70%] [on]
+  Front Right: Playback 45874 [70%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39320 [60%] [on]
+  Front Right: Playback 39320 [60%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 32766 [50%] [on]
+  Front Right: Playback 32766 [50%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26212 [40%] [on]
+  Front Right: Playback 26212 [40%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 19658 [30%] [on]
+  Front Right: Playback 19658 [30%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 13104 [20%] [on]
+  Front Right: Playback 13104 [20%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6550 [10%] [on]
+  Front Right: Playback 6550 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [off]
+  Front Right: Playback 6554 [10%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [off]
+  Front Right: Playback 6554 [10%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [off]
+  Front Right: Playback 6554 [10%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [off]
+  Front Right: Playback 6554 [10%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [off]
+  Front Right: Playback 6554 [10%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 13108 [20%] [on]
+  Front Right: Playback 13108 [20%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 19662 [30%] [on]
+  Front Right: Playback 19662 [30%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26216 [40%] [on]
+  Front Right: Playback 26216 [40%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 32770 [50%] [on]
+  Front Right: Playback 32770 [50%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39324 [60%] [on]
+  Front Right: Playback 39324 [60%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45878 [70%] [on]
+  Front Right: Playback 45878 [70%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52432 [80%] [on]
+  Front Right: Playback 52432 [80%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 58986 [90%] [on]
+  Front Right: Playback 58986 [90%] [on]
+: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [off]
+  Front Right: Playback 0 [0%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 0 [0%] [on]
+  Front Right: Playback 0 [0%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 13108 [20%] [on]
+  Front Right: Playback 13108 [20%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 19662 [30%] [on]
+  Front Right: Playback 19662 [30%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26216 [40%] [on]
+  Front Right: Playback 26216 [40%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 19662 [30%] [on]
+  Front Right: Playback 19662 [30%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 13108 [20%] [on]
+  Front Right: Playback 13108 [20%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 6554 [10%] [on]
+  Front Right: Playback 6554 [10%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 13108 [20%] [on]
+  Front Right: Playback 13108 [20%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 19662 [30%] [on]
+  Front Right: Playback 19662 [30%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26216 [40%] [on]
+  Front Right: Playback 26216 [40%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26216 [40%] [off]
+  Front Right: Playback 26216 [40%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 32770 [50%] [off]
+  Front Right: Playback 32770 [50%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39324 [60%] [off]
+  Front Right: Playback 39324 [60%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45878 [70%] [off]
+  Front Right: Playback 45878 [70%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52432 [80%] [off]
+  Front Right: Playback 52432 [80%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52432 [80%] [on]
+  Front Right: Playback 52432 [80%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52432 [80%] [off]
+  Front Right: Playback 52432 [80%] [off]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 52432 [80%] [on]
+  Front Right: Playback 52432 [80%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45878 [70%] [on]
+  Front Right: Playback 45878 [70%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39324 [60%] [on]
+  Front Right: Playback 39324 [60%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 32770 [50%] [on]
+  Front Right: Playback 32770 [50%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 26216 [40%] [on]
+  Front Right: Playback 26216 [40%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 32770 [50%] [on]
+  Front Right: Playback 32770 [50%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39324 [60%] [on]
+  Front Right: Playback 39324 [60%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45878 [70%] [on]
+  Front Right: Playback 45878 [70%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 39324 [60%] [on]
+  Front Right: Playback 39324 [60%] [on]
+Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45878 [70%] [on]
+  Front Right: Playback 45878 [70%] [on]

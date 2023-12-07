@@ -1,0 +1,2 @@
+2023-10-20 17:33:08.946 [error] electron #60: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-10-20 17:33:11.923 [error] electron #61: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

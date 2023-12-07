@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Solarized Dark Vim",
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "/usr/bin/vi",
+    "vim.neovimUseConfigFile": true,
+    "vim.neovimConfigPath": "/home/shelf/.config/nvim/init.lua"
+}

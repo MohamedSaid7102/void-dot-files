@@ -1,0 +1,11 @@
+2023-11-02 08:09:03.829 [info] Extension host with pid 17039 started
+2023-11-02 08:09:03.829 [info] Skipping acquiring lock for /home/shelf/.config/Code/User/workspaceStorage/570e3426d393f0bc5225d07c9ea2cb92.
+2023-11-02 08:09:03.876 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-02 08:09:03.923 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-02 08:09:03.981 [info] Eager extensions activated
+2023-11-02 08:09:04.017 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 08:09:04.024 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 08:09:04.035 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2023-11-02 08:09:05.257 [error] Error: ENOENT: no such file or directory, open '/home/shelf/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-11-02 08:09:07.353 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-02 08:09:07.383 [info] Extension host with pid 17039 exiting with code 0

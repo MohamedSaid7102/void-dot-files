@@ -1,0 +1,47 @@
+2023-10-20 15:54:45.806 [info] Extension host with pid 8538 started
+2023-10-20 15:54:45.946 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-20 15:54:45.995 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-20 15:54:46.077 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-20 15:54:46.224 [info] Eager extensions activated
+2023-10-20 15:54:46.235 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 15:54:46.237 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 15:54:51.053 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-20 15:54:51.143 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-20 15:54:51.263 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-20 15:55:41.355 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-10-20 15:55:41.389 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-10-20 15:55:41.433 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-10-20 15:55:41.485 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-20 15:56:58.917 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-20 15:56:58.951 [info] Extension host with pid 8538 exiting with code 0
+2023-10-20 15:56:59.710 [info] Extension host with pid 9835 started
+2023-10-20 15:56:59.710 [info] Skipping acquiring lock for /home/shelf/.config/Code/User/workspaceStorage/8464be60b9216e759f46661537dba315.
+2023-10-20 15:56:59.772 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-20 15:56:59.786 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-20 15:56:59.800 [info] Eager extensions activated
+2023-10-20 15:56:59.811 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 15:56:59.812 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-20 15:57:02.706 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-20 15:57:13.379 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-20 15:57:13.398 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-20 15:57:29.652 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+2023-10-20 15:57:30.786 [error] Error: ENOENT: no such file or directory, open '/home/shelf/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-10-20 15:57:59.106 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-20 15:57:59.126 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-20 17:36:51.969 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-10-20 17:37:16.278 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-10-20 17:39:11.653 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-20 17:39:11.686 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/shelf/.vscode/extensions/vscodevim.vim-1.26.1/out/extension.js:2:674100)
+	at t.deactivate (/home/shelf/.vscode/extensions/vscodevim.vim-1.26.1/out/extension.js:2:213749)
+	at s.cb (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9651)
+	at /home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7796
+	at Array.map (<anonymous>)
+	at s.Y (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7784)
+	at s.terminate (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8054)
+	at o.terminate (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at l (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9801)
+	at MessagePortMain.<anonymous> (/home/shelf/src/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6226)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-10-20 17:39:11.693 [info] Extension host with pid 9835 exiting with code 0
